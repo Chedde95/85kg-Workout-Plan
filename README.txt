@@ -1,5 +1,3 @@
-85KG Workout Tracker v2
+85KG Workout Tracker v3
 
-Verbesserungen: iPhone Web-App Support, Offline-Cache, bessere Touch-Eingabe, lokale Datumsbehandlung, Trainingsvolumen, PR-Hinweise und Gewichtshistorie.
-
-Wichtig: Der LocalStorage-Key bleibt kg85tracker-v1. Bestehende Trainingsdaten werden durch das Update nicht absichtlich gelöscht.
+Gym-Optimierungen: automatischer Pausentimer nach jedem abgehakten Satz (3:00 Grunduebungen, 1:30 Isolation), letzte Satzwerte direkt sichtbar, kg-Vorbelegung, kompaktere Workout-Ansicht, iPhone Safe-Area und Offline-Cache.
