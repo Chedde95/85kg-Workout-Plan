@@ -1,3 +1,3 @@
-REP+ V5
+REP+ V6
 
-Live Workout, intelligente Double Progression, Satzvergleich, Gewichts-Stepper, anpassbarer Pausentimer mit Signal/Vibration, Auto-Draft/Fortsetzen, Training bearbeiten/löschen, Fortschrittsdiagramme und Wochenübersicht.
+Modernes Redesign auf Basis deiner Referenz-Screenshots: kompakte Wochenleiste, Today's Training Hero, Dashboard-Karten, Premium-Dark-UI und fokussierter Workout-Modus. Bestehende V5-Funktionen und Local-Storage-Daten bleiben erhalten.
